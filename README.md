@@ -12,4 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0197-rising-temperature/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
