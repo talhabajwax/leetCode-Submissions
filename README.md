@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,8 +101,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
