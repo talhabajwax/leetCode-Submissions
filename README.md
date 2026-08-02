@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
@@ -107,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
