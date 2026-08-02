@@ -88,8 +88,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
