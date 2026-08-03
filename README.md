@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
