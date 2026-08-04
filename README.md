@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0509-fibonacci-number/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,11 +112,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 <!---LeetCode Topics End-->
