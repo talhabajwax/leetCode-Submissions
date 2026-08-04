@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3731-find-missing-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3731-find-missing-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
