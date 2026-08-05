@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
+| [0401-binary-watch](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0401-binary-watch/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0401-binary-watch/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
