@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +149,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
