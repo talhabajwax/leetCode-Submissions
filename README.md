@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0136-single-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0136-single-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0401-binary-watch/) | Easy |
