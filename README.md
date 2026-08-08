@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -186,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
