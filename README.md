@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0342-power-of-four/) | Easy |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -204,4 +207,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
