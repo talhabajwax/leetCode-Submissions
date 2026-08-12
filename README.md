@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0035-search-insert-position/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
