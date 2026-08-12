@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
