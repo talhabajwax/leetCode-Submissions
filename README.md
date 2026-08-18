@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0205-isomorphic-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Dynamic Programming
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
