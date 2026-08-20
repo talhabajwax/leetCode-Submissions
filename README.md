@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
