@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
