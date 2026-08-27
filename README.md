@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
