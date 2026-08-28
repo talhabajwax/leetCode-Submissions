@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0283-move-zeroes/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1929-concatenation-of-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/talhabajwax/leetCode-Submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -317,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0148-sort-list/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
