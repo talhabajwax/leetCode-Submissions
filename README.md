@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0169-majority-element/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0148-sort-list/) | Medium |
