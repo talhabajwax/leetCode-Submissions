@@ -357,8 +357,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0155-min-stack/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
