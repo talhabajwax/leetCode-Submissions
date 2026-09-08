@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0202-happy-number/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0268-missing-number/) | Easy |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
