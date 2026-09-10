@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0112-path-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0112-path-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -419,4 +422,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0912-sort-an-array/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
