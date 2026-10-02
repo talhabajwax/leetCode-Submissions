@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0049-group-anagrams/) | Medium |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0401-binary-watch/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
