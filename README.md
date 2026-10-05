@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
