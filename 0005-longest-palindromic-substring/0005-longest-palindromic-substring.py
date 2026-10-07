@@ -1,15 +1,24 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        longest = ""
+        if not s:
+            return ""
 
-        for i in range(len(s)):
+        start = 0
+        max_length = 1
+        n = len(s)
+
+        for i in range(n):
+
             # Odd-length palindrome
             left = i
             right = i
 
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                if right - left + 1 > len(longest):
-                    longest = s[left:right + 1]
+            while left >= 0 and right < n and s[left] == s[right]:
+                length = right - left + 1
+
+                if length > max_length:
+                    max_length = length
+                    start = left
 
                 left -= 1
                 right += 1
@@ -18,11 +27,14 @@ class Solution:
             left = i
             right = i + 1
 
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                if right - left + 1 > len(longest):
-                    longest = s[left:right + 1]
+            while left >= 0 and right < n and s[left] == s[right]:
+                length = right - left + 1
+
+                if length > max_length:
+                    max_length = length
+                    start = left
 
                 left -= 1
                 right += 1
 
-        return longest
+        return s[start:start + max_length]
