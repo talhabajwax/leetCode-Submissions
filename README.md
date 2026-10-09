@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/talhabajwax/leetCode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/talhabajwax/leetCode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/talhabajwax/leetCode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
